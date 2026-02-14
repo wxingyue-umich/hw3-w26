@@ -153,4 +153,5 @@ nav a:focus {
      max-height: 235px;
      margin: auto;
      padding: 20px;
+     overflow: auto;
 }
